@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5b39134.chunk.css",
-    "main.js": "/static/js/main.d2a21aba.chunk.js",
-    "main.js.map": "/static/js/main.d2a21aba.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.124acca7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.124acca7.js.map",
-    "static/css/2.a1049875.chunk.css": "/static/css/2.a1049875.chunk.css",
-    "static/js/2.368a4feb.chunk.js": "/static/js/2.368a4feb.chunk.js",
-    "static/js/2.368a4feb.chunk.js.map": "/static/js/2.368a4feb.chunk.js.map",
-    "static/js/3.a96994db.chunk.js": "/static/js/3.a96994db.chunk.js",
-    "static/js/3.a96994db.chunk.js.map": "/static/js/3.a96994db.chunk.js.map",
+    "main.css": "/static/css/main.560b2817.chunk.css",
+    "main.js": "/static/js/main.fbf4a3e2.chunk.js",
+    "main.js.map": "/static/js/main.fbf4a3e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3edf275a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3edf275a.js.map",
+    "static/css/2.7f94c300.chunk.css": "/static/css/2.7f94c300.chunk.css",
+    "static/js/2.595985b9.chunk.js": "/static/js/2.595985b9.chunk.js",
+    "static/js/2.595985b9.chunk.js.map": "/static/js/2.595985b9.chunk.js.map",
+    "static/js/3.5ce0b11d.chunk.js": "/static/js/3.5ce0b11d.chunk.js",
+    "static/js/3.5ce0b11d.chunk.js.map": "/static/js/3.5ce0b11d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.a1049875.chunk.css.map": "/static/css/2.a1049875.chunk.css.map",
-    "static/css/main.d5b39134.chunk.css.map": "/static/css/main.d5b39134.chunk.css.map",
-    "static/js/2.368a4feb.chunk.js.LICENSE.txt": "/static/js/2.368a4feb.chunk.js.LICENSE.txt",
+    "static/css/2.7f94c300.chunk.css.map": "/static/css/2.7f94c300.chunk.css.map",
+    "static/css/main.560b2817.chunk.css.map": "/static/css/main.560b2817.chunk.css.map",
+    "static/js/2.595985b9.chunk.js.LICENSE.txt": "/static/js/2.595985b9.chunk.js.LICENSE.txt",
     "static/media/TigerPuffLogo.5345b116.png": "/static/media/TigerPuffLogo.5345b116.png",
     "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.dfd0ea12.woff2",
     "static/media/cover-photo.b42ee178.png": "/static/media/cover-photo.b42ee178.png",
@@ -21,13 +21,14 @@
     "static/media/minus-square-o.6e58989d.svg": "/static/media/minus-square-o.6e58989d.svg",
     "static/media/notes.5ea43ce2.svg": "/static/media/notes.5ea43ce2.svg",
     "static/media/plus-square-o.438b455b.svg": "/static/media/plus-square-o.438b455b.svg",
-    "static/media/table.4b69b82e.svg": "/static/media/table.4b69b82e.svg"
+    "static/media/table.4b69b82e.svg": "/static/media/table.4b69b82e.svg",
+    "static/media/tp-logo.f15adbdd.svg": "/static/media/tp-logo.f15adbdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.124acca7.js",
-    "static/css/2.a1049875.chunk.css",
-    "static/js/2.368a4feb.chunk.js",
-    "static/css/main.d5b39134.chunk.css",
-    "static/js/main.d2a21aba.chunk.js"
+    "static/js/runtime-main.3edf275a.js",
+    "static/css/2.7f94c300.chunk.css",
+    "static/js/2.595985b9.chunk.js",
+    "static/css/main.560b2817.chunk.css",
+    "static/js/main.fbf4a3e2.chunk.js"
   ]
 }
